@@ -1,0 +1,11 @@
+#head {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+     background-image:url('images/backo.jpg');
+}
+
+.meow{
+    color: blanchedalmond;
+}
